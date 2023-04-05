@@ -4,6 +4,7 @@ fastapi-router-controller
 pyclear
 pytest
 httpx
+black
 kubernetes==25.3.0
 zope.interface
 zope.component
